@@ -1,0 +1,1 @@
+.movies-list{display:grid;gap:20px;grid-template-columns:repeat(3,1fr);margin-top:50px}.movies-card{display:flex;flex-direction:column;gap:10px}.movies-card h2{margin:0}
